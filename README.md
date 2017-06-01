@@ -1,4 +1,4 @@
-[**js-aruco**](https://github.com/jcmellado/js-aruco) is a port to JavaScript of the ArUco library by jcmellado. This module adapts that browser library slightly to work in Node.js.
+[**js-aruco**](https://github.com/jcmellado/js-aruco) is a JavaScript port by jcmellado of the ArUco library. This module adapts that browser library slightly to work in Node.js.
 
 [ArUco](http://www.uco.es/investiga/grupos/ava/node/26) is a minimal library for Augmented Reality applications based on OpenCV.
 
