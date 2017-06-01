@@ -1,0 +1,13 @@
+{
+  "name": "js-aruco",
+  "version": "0.1.0",
+  "description": "JS port of ArUco AR marker library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "okofish/js-aruco",
+  "author": "Jesse Friedman <jesse@jesse.ws> (https://jesse.ws/)",
+  "contributors": ["Juan Mellado (https://github.com/jcmellado)"],
+  "license": "MIT"
+}
